@@ -1,6 +1,6 @@
 //server.cpp
 
-#include "Server.h"
+#include "server/Server.h"
 
 int Server::getProtNumberForSocket(){
     //Check what port is assigned
